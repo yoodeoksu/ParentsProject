@@ -1,4 +1,4 @@
 rootProject.name = 'ParentProject'
-include 'child1'
-include 'child2'
-include 'child3'
+include 'jupyter'
+include 'user'
+include 'workflow'
